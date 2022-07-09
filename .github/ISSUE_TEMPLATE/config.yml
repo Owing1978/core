@@ -1,17 +1,24 @@
 blank_issues_enabled: true
+name:
+description:
+body:
+  -
 contact_links:
   - name: Issue with ASP.NET Core
-    url:  https://github.com/dotnet/aspnetcore/issues/new/choose
+    url: https://github.com/dotnet/aspnetcore/issues/new/choose
     about: Please open issues relating to ASP.NET Core in dotnet/aspnetcore.
   - name: Issue with .NET runtime or core .NET libraries
-    url:  https://github.com/dotnet/runtime/issues/new/choose
+    url: https://github.com/dotnet/runtime/issues/new/choose
     about: Please open issues with the .NET runtime or core .NET libraries in dotnet/runtime.
   - name: Issue with .NET SDK
-    url:  https://github.com/dotnet/sdk/issues/new/choose
+    url: https://github.com/dotnet/sdk/issues/new/choose
     about: Please open issues relating to the .NET SDK in dotnet/sdk.
   - name: Issue with Entity Framework
     url:  https://github.com/dotnet/efcore/issues/new/choose
     about: Please open issues relating to Entity Framework in dotnet/efcore.
+  - name: Issue with .NET MAUI
+    url:  https://github.com/dotnet/maui/issues/new/choose
+    about: Please open issues relating to .NET MAUI in dotnet/maui.    
   - name: Issue with Roslyn compiler
     url:  https://github.com/dotnet/roslyn/issues/new/choose
     about: Please open issues relating to the Roslyn .NET compiler in dotnet/roslyn.
